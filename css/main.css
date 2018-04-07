@@ -1,4 +1,9 @@
 body
 {
-	background color:	#FFFFFF;
+	background-color:	#FFFFFF;
+}
+
+ul
+{
+	type:	none;
 }
