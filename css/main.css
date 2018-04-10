@@ -3,7 +3,7 @@ body
 	background-color:	#FFFFFF;
 }
 
-ul
+li
 {
-	type:	none;
+	display:	inline;
 }
