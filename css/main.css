@@ -8,6 +8,11 @@ li
 	display:	inline;
 }
 
+h1
+{
+	padding:	10, 0, 10, 0;
+}
+
 #wrapper
 {
 	margin-left:	150px;
