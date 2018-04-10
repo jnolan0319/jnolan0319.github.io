@@ -11,7 +11,12 @@ li
 h1
 {
 	padding:	10, 0, 10, 0;
-	font-size:	30px;
+	font-size:	40px;
+}
+
+p a
+{
+	font-color:	#080808;
 }
 
 #wrapper
