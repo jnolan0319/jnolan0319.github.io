@@ -19,6 +19,11 @@ p a
 	font-color:	#080808;
 }
 
+footer
+{
+	border-top:	2px;
+}
+
 #wrapper
 {
 	margin-left:	150px;
